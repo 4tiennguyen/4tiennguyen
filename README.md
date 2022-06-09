@@ -10,9 +10,7 @@
 ![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=4tiennguyen&show_icons=true&theme=radical)
 
 # Get in touch ☕
-<!-- Actual text -->
-
-You can find me on  on [![LinkedIn][1.2]][1].
+I'm still learning. If you had any comments or suggestions about my projects, please let me know :blush:. You can find me on  on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
