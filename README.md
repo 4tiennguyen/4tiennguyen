@@ -1,6 +1,5 @@
-# Hi, I'm Tien👋:handshake: 
-
 ![image](https://user-images.githubusercontent.com/34051678/172893029-1d140de7-ebee-47d7-ab0a-79a282f850fc.png)
+# Hi, I'm Tien👋:handshake: 
   
 🧑‍🎓 I'm currently a student pursuing a Master’s degree in Data Science.  
 😄 I love working with data. I can spend hours digging into dirty data.   
