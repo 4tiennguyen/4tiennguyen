@@ -6,7 +6,14 @@
 😄 I love working with data. I can spend hours digging into dirty data.   
 ⚡ Fun fact: I am a big fan of Friends. I think I have watched it more than 20 times.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4tiennguyen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=4tiennguyen&show_icons=true&theme=radical)
+
+
+
+
+
 <!--
 **4tiennguyen/4tiennguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
