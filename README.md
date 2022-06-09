@@ -1,5 +1,8 @@
-### Hi, I'm Tien👋 :handshake: 
+# Hi, I'm Tien👋:handshake: 
 
+![image](https://user-images.githubusercontent.com/34051678/172893029-1d140de7-ebee-47d7-ab0a-79a282f850fc.png)
+  
+I'm currently a student pursuing a Master’s degree in Data Science🧑‍🎓.
 <!--
 **4tiennguyen/4tiennguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
