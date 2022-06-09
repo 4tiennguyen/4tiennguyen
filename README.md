@@ -9,6 +9,18 @@
 
 ![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=4tiennguyen&show_icons=true&theme=radical)
 
+# Get in touch ☕
+<!-- Actual text -->
+
+You can find me on  on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/4tiennguyen/
 <!--
 **4tiennguyen/4tiennguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
