@@ -9,10 +9,6 @@
 
 ![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=4tiennguyen&show_icons=true&theme=radical)
 
-
-
-
-
 <!--
 **4tiennguyen/4tiennguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
