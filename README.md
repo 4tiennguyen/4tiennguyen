@@ -5,7 +5,7 @@
 😄 I love working with data. I can spend hours digging into dirty data.   
 ⚡ Fun fact: I am a big fan of Friends. I think I have watched it more than 20 times.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4tiennguyen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4tiennguyen&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=4tiennguyen&show_icons=true&theme=radical)
 
