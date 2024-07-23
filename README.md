@@ -1,6 +1,6 @@
 # Hi, I'm Tien👋:handshake: 
   
- 🧑‍🎓 I am currently a student working towards a Master’s degree in Data Science.  
+ 🧑‍🎓 I recently graduated with a Master’s degree in Data Science.  
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="28" height="26" /> I'm interning as a student researcher at NASA.
 
 <img src="https://media.giphy.com/media/nCVVpakhBTwBi/giphy.gif" width="28" height="26" /> I previously interned as a Data Scientist at Tesla. I love working with data. I can spend hours digging into dirty data.   
