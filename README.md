@@ -1,5 +1,5 @@
 ![Bears](https://media.giphy.com/media/cmIU30MeskfWL7xMfV/giphy.gif)
-# Hi, I'm Tien👋:handshake: 
+# Hi, I'm Tien👋
   
  🧑‍🎓 I recently graduated with a Master’s degree in Data Science.  
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="28" height="26" /> I'm interning as a student researcher at NASA.
