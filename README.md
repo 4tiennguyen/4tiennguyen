@@ -1,3 +1,4 @@
+![Bears](https://media.giphy.com/media/cmIU30MeskfWL7xMfV/giphy.gif)
 # Hi, I'm Tien👋:handshake: 
   
  🧑‍🎓 I recently graduated with a Master’s degree in Data Science.  
